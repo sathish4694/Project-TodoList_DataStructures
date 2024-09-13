@@ -1,0 +1,52 @@
+[
+    {
+        "task_name": "Medical Insurance",
+        "category_name": "Health",
+        "priority": "High",
+        "duedate": "2024-09-15",
+        "status": "Pending",
+        "tags": [
+            "Imp"
+        ]
+    },
+    {
+        "task_name": "Doctor Visit",
+        "category_name": "Health",
+        "priority": "Medium",
+        "duedate": "2024-09-25",
+        "status": "Pending",
+        "tags": [
+            "NotImp"
+        ]
+    },
+    {
+        "task_name": "Groceries",
+        "category_name": "Daily Living",
+        "priority": "Low",
+        "duedate": "2024-09-13",
+        "status": "Completed",
+        "tags": [
+            "NotImp"
+        ]
+    },
+    {
+        "task_name": "Cleaning",
+        "category_name": "Daily Living",
+        "priority": "High",
+        "duedate": "2024-09-14",
+        "status": "Pending",
+        "tags": [
+            "Imp"
+        ]
+    },
+    {
+        "task_name": "Life Insurance",
+        "category_name": "Health",
+        "priority": "Medium",
+        "duedate": "2024-09-20",
+        "status": "Pending",
+        "tags": [
+            "NotImp"
+        ]
+    }
+]

@@ -1,0 +1,206 @@
+
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 1
+Enter Task Name: Medical Insurance
+Enter Category Name: Health
+Enter Priority (High, Medium, Low): High
+Enter Due Date (YYYY-MM-DD): 2024-09-15
+Enter Status: Pending
+Enter Tags: Imp
+Task added successfully.
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 1
+Enter Task Name: Doctor Visit
+Enter Category Name: Health
+Enter Priority (High, Medium, Low): Medium
+Enter Due Date (YYYY-MM-DD): 2024-09-25
+Enter Status: Pending
+Enter Tags: NotImp
+Task added successfully.
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 1
+Enter Task Name: Groceries
+Enter Category Name: Daily Living
+Enter Priority (High, Medium, Low): Low
+Enter Due Date (YYYY-MM-DD): 2024-09-13
+Enter Status: Completed
+Enter Tags: NotImp
+Task added successfully.
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 1
+Enter Task Name: Cleaning
+Enter Category Name: Daily Living
+Enter Priority (High, Medium, Low): High
+Enter Due Date (YYYY-MM-DD): 2024-09-14
+Enter Status: Pending
+Enter Tags: Imp
+Task added successfully.
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 2
+Medical Insurance: Health - Priority: High - Due_Date: 2024-09-15 - Status: Pending
+Medical Insurance: Health - Priority: High - Due_Date: 2024-09-15 - Status: Pending
+Doctor Visit: Health - Priority: Medium - Due_Date: 2024-09-25 - Status: Pending
+Groceries: Daily Living - Priority: Low - Due_Date: 2024-09-13 - Status: Completed
+Cleaning: Daily Living - Priority: High - Due_Date: 2024-09-14 - Status: Pending
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 3
+Enter Task Name to edit: 2
+Task not found.
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 3
+Enter Task Name to edit: Medical Insurance
+Enter new Task Name: Life Insurance
+Enter new Category Name: Health
+Enter new Priority (High, Medium, Low): Medium
+Enter new Due Date (YYYY-MM-DD): 2024-09-20
+Enter new Status: Pending
+Enter new Tags: NotImp
+Task updated successfully.
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 2
+Life Insurance: Health - Priority: Medium - Due_Date: 2024-09-20 - Status: Pending
+Medical Insurance: Health - Priority: High - Due_Date: 2024-09-15 - Status: Pending
+Doctor Visit: Health - Priority: Medium - Due_Date: 2024-09-25 - Status: Pending
+Groceries: Daily Living - Priority: Low - Due_Date: 2024-09-13 - Status: Completed
+Cleaning: Daily Living - Priority: High - Due_Date: 2024-09-14 - Status: Pending
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 4
+Enter Task Name to delete: Life Insurance
+Task deleted successfully.
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 2
+Medical Insurance: Health - Priority: High - Due_Date: 2024-09-15 - Status: Pending
+Doctor Visit: Health - Priority: Medium - Due_Date: 2024-09-25 - Status: Pending
+Groceries: Daily Living - Priority: Low - Due_Date: 2024-09-13 - Status: Completed
+Cleaning: Daily Living - Priority: High - Due_Date: 2024-09-14 - Status: Pending
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 5
+Undo successful.
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 2
+Medical Insurance: Health - Priority: High - Due_Date: 2024-09-15 - Status: Pending
+Doctor Visit: Health - Priority: Medium - Due_Date: 2024-09-25 - Status: Pending
+Groceries: Daily Living - Priority: Low - Due_Date: 2024-09-13 - Status: Completed
+Cleaning: Daily Living - Priority: High - Due_Date: 2024-09-14 - Status: Pending
+Life Insurance: Health - Priority: Medium - Due_Date: 2024-09-20 - Status: Pending
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 6
+Enter tag/keyword to search: Imp
+Life Insurance: Health - Priority: Medium - Due: 2024-09-20 - Status: Pending
+Medical Insurance: Health - Priority: High - Due: 2024-09-15 - Status: Pending
+Cleaning: Daily Living - Priority: High - Due: 2024-09-14 - Status: Pending
+
+Main Menu:
+1. Add Task
+2. View Tasks
+3. Edit Task
+4. Delete Task
+5. Undo Task
+6. Search Task
+7. Exit
+Enter your choice: 7
+PS D:\Miraclesoft\To-DoListApplication_DataStructures> 
